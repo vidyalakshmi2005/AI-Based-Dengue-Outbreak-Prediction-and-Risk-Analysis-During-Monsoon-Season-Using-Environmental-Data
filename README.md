@@ -1,0 +1,2 @@
+# AI-Based-Dengue-Outbreak-Prediction-and-Risk-Analysis-During-Monsoon-Season-Using-Environmental-Data
+Developed an AI-based system to predict dengue outbreak risks during the monsoon season using environmental datasets. The system analyzes environmental factors to identify potential outbreak patterns and provide predictive insights that support early planning, disease monitoring, and preventive measures.
